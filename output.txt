@@ -1,0 +1,158 @@
+Welcome!
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+:q
+Please type an integer 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+err wrewrw
+Please type an integer 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+9
+The integer should be 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+0
+The integer should be 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+-1
+The integer should be 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+1
+Type anything!
+hello world!
+{hello} 
+{world!} 
+!$@#%@#^% %#$% \n\n &$ 54##% 
+{!$@#%@#^%} 
+{%#$%} 
+{\n\n} 
+{&$} 
+{54##%} 
+
+
+
+and        i  am ________________ irom_man
+{and} 
+{i} 
+{am} 
+{________________} 
+{irom_man} 
+\n\n  \ n 1.4984094801000 0.0000000    000 1
+{\n\n} 
+{\} 
+{n} 
+{1.4984094801000} 
+{0.0000000} 
+{000} 
+{1} 
+:q
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+2
+Type file name with the format filename.txt.
+file.abc
+No such file.
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+2
+Type file name with the format filename.txt.
+abc.txt
+No such file.
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+2
+Type file name with the format filename.txt.
+file_input.txt
+[The content of the file is]
+i just went through a tough day!
+ate less lunch and walked 1.9808410298014 miles!
+daily exercise seems like this       ////\n\n %78987982^%^$^@
+///////////////
+*(*(*(*(*&#^%&@%$&^%#&#^$^#$
+93...45009   0909098019809803525
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+3
+Please type the file name!
+file_output
+Please tell me what you want to record!
+Type :q to quit!
+so so you think you can tell
+heaven from hell
+blue skies from pain
+can you tell a green field?
+from a cold steel rail?
+a smile from veil?
+do you think you can tell?
+Pink Floyd, RadioHead and Spiritualized are the best bands ever!
+798 (*&((* fd    \n\n\nn\ fwf2uh
+Thank you for reading!
+Have a great life!
+:q
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+rerer
+Please type an integer 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+567
+The integer should be 1 - 4
+
+Choose following options with the number
+1. Copy my words.
+2. Load and read a file.
+3. Copy my words to a file.
+4. Quit.
+4
+Thank you for using!
